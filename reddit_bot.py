@@ -31,6 +31,3 @@ for comment in super_comments:
         already_done.add(comment.id)
         time.sleep(SLEEPING)
 
-
-        
-
