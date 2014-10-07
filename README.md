@@ -8,6 +8,9 @@ Get PRAW here: https://praw.readthedocs.org/en/v2.1.16/
 Edit login.cfg to enter your username and password.
 
 set USER_AGENT to your username (including /u/)
+
 set SEARCH_FOR to the phrase you are looking for
+
 set MESSAGE to your response
+
 set SUBREDDIT to the subreddit you want to search
